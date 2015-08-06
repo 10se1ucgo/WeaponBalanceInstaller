@@ -1,0 +1,8 @@
+# Python
+*.py[cod]
+
+# Pycharm
+.idea
+
+# Mod Zip
+slothmod.zip
